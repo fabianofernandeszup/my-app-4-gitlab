@@ -1,7 +1,7 @@
 stages:
-  - test
+  - test2
 
 test_job:
-  stage: test
+  stage: test2
   script:
     - echo "Testing from second workflow..."
