@@ -1,7 +1,7 @@
 stages:
   - build2
 
-build_job:
+build2_job:
   stage: build2
   script:
     - echo "Building from first workflow..."
